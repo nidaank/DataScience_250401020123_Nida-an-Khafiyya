@@ -83,8 +83,8 @@ Melalui repository ini, saya berharap dapat menunjukkan perkembangan pemahaman s
 Clone repository:
 
 ```bash
-git clone https://github.com/username/data-science-2026.git
-cd data-science-2026
+git clone https://github.com/nidaank/DataScience_250401020123_Nida-an-Khafiyya.git
+cd DataScience_250401020123_Nida-an-Khafiyya
 ```
 
 Install dependency:
